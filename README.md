@@ -1,1 +1,1 @@
-# SSH-PUPLIC
+# SSH-PUBLIC
